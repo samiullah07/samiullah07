@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sami Ullah</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
+<img align="right" width="350px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="sami ullah" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiullah07&label=Profile%20views&color=0e75b6&style=flat" alt="sami ullah" /> </p>
+
 - 💬 Ask me about **MERN Stack Development**
 
 <h3 align="left">Connect with me:</h3>
