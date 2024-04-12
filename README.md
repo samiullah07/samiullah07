@@ -1,3 +1,7 @@
+<span class="border-r">
+  <img align="center" width="100%" src="https://anasjahangir.netlify.app/img/banner.jpg" alt="sami ullah">
+</span>
+
 <h1 align="center">Hi 👋, I'm Sami Ullah</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
